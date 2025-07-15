@@ -1,7 +1,7 @@
 {
   "name": "Vandy Meas",
   "short_name": "Vandy",
-  "start_url": "/",
+  "start_url": "https://vandymeas.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
